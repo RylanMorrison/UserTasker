@@ -1,6 +1,4 @@
-Black Swan Test
-
-A RESTful HTTP service that manages Users and Tasks for Users.
+A practice RESTful HTTP service that manages Users and Tasks for Users.
 
 Users can be created, updated and listed. Tasks can be created, updated, deleted and listed.
 Users and Tasks are persisted using a H2 database and JPA.
